@@ -68,4 +68,6 @@
 		* "email" : string (body)
 	* Response
 		* 201 : Created
-
+## DB
+* Key : Email
+* Value : Hash (id, coupon, date)
